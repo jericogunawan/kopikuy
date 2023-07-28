@@ -1,0 +1,99 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 ml",
+            "harga": "75.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "250 ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "250 ml",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "500 ml",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "250 ml",
+            "harga": "55.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
+            "nama": "Es Cendol",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/324b09e9-fad8-46b0-9396-69d9b4dee729_Go-Biz_20210824_112155.jpeg",
+            "nama": "Es Campur",
+            "size": "500 ml",
+            "harga": "60.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://sweetrip.id/wp-content/uploads/2020/08/masakid_official_88795760_120350832883590_6865129311157258066_n-1.jpg",
+            "nama": "Es Teler",
+            "size": "500 ml",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i0.wp.com/rasabunda.com/wp-content/uploads/2021/03/Es-Kopyor-1.jpg?fit=450%2C600&ssl=1",
+            "nama": "Es Kopyor",
+            "size": "250 ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://kristineskitchenblog.com/wp-content/uploads/2022/12/air-fryer-frozen-french-fries-recipe-11.jpg",
+            "nama": "French Fries",
+            "size": "Reguler",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://rasabunda.com/wp-content/uploads/2021/09/Croffle.jpg",
+            "nama": "Croffle",
+            "size": "5 pcs",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://balitteknologikaret.co.id/wp-content/uploads/2023/05/Resep-Fettucini-Carbonara-Smoked-Beef.jpg",
+            "nama": "Fettucini Carbonara Smoked Beef",
+            "size": "200 gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.foodelicacy.com/wp-content/uploads/2017/05/strawberry-shortcake-18.jpg",
+            "nama": "Strawberry Shortcake",
+            "size": "1 pcs",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
